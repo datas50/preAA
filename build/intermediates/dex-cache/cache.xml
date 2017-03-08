@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.1_c3d54514f0bbaa1d0e85bc176fa08f72c53bbfa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c1c44672010b6847f3744ec3702624d8d16c240">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/com.android.support-gridlayout-v7-25.1.1_80239ee21799cc1c0a2065ae5c4b081f93a34b01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-sheets/v4-rev15-1.22.0/994e9f81074656c703b19d01ae3fe4124e9ec016/google-api-services-sheets-v4-rev15-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="994e9f81074656c703b19d01ae3fe4124e9ec016">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/google-api-services-sheets-v4-rev15-1.22.0_0daf3b7990ca2ca6f404747036bcc4277a787d78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_71c621171c4f6026cc60a59d967c1e92af7a2d6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_d08ee81f921e73ea06f7b170998357641257c659.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.1_4801e5785ce6c4657b46bfac8f517befdf1fcb1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.22.0/7a0fe12b7d8189a821934d6f9d6586d00180e461/google-api-client-android-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7a0fe12b7d8189a821934d6f9d6586d00180e461">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/google-api-client-android-1.22.0_fe48570784f1aef8dc0dd54955e46a0fe6fcae56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/jackson-core-2.1.3_67439eb2d09bf31a61081bf6ded8f5a82037b145.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.0.0_73cc4d243e50584fcc081a836b7d3cbb86baaab0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.22.0/1d63f369ac78e4838a3197147012026e791008cb/google-oauth-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1d63f369ac78e4838a3197147012026e791008cb">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/google-oauth-client-1.22.0_e26b29ac3fb7977a4f8fd098f02dbd4b983b66cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/exploded-aar/com.bignerdranch.android/expandablerecyclerview/2.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="60430e47e1fb0be5502390f96a0a4c7f0b4fcb3e">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/com.bignerdranch.android-expandablerecyclerview-2.1.1_781c4a7b9874338fcfde786fa15092cfc54da8d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.22.0/6d1e1a76a16a244ab2f41775791be1dd0ec2878a/google-http-client-android-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6d1e1a76a16a244ab2f41775791be1dd0ec2878a">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/google-http-client-android-1.22.0_895773f1bfa163cf5e94e5450991a049609f65e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.0.0_cfe1cfeb23bda61b13b736056479d026bec645bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_7498924990521413d39cca1c12cf0ee0da0b9a6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_dc22aebb33251804ab7a9b1095e14db538aa9e38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_cb25784f60b6a4b4242f82f14b5830aa64fcc23d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.1_106653ba8c42a5ffa59bb42fb35695a5ee828719.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.0.0_8e72c5a2a718a8a7d2243fcd89dec45a373ca7fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.0.0_a8d1454536b901bf86a93f0a7a994f343ec51626.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.22.0/244350c0c845c583717ade13f5666a452fd0cfa/google-api-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0244350c0c845c583717ade13f5666a452fd0cfa">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/google-api-client-1.22.0_1b8f83601a8f18c4a0af04c38e2af69c282707ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.0.0_a7dc76d5a4618681b89b511a961b8eabf9b5eaef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e82bde3b186e4045b527714ed212d93dc0388329">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/instant-run_f3567ff4e4de28c9077a4bd551a8895f85d508fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_b842b0a44682c39efe8ee90b733874d3ef007876.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/17.0/463f8378feba44df7ba7cd9272d01837dad62b36/guava-jdk5-17.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/guava-jdk5-17.0_1f2d7ff234dab014354758fe77889a0a8977babd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.22.0/cc014d64ae11117e159d334c99d9c246d9b36f44/google-http-client-jackson2-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cc014d64ae11117e159d334c99d9c246d9b36f44">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/google-http-client-jackson2-1.22.0_d2dba4fd71b6c79d887a48074a9f2a5c315a6bf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.1.1_e74f60de15cdfa5617d49cfa9335369a0c9dd4ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eaee33581c1ac8b246579830a5b998a0c7a102ed">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_f89045d284c7806c4381985afddbd74300baff10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_11fdc9461436f15cb5a29af26967b4a2d277b78a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_d46c0eb0120b4c6c626c78bfb6c40fff14ed5043.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.0.0_320b275b756c3669bae802d54929051de74f4475.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.0.0_9602e0d4d032ef0636610350eceee8e98b206adf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.22.0/d441fc58329c4a4c067acec04ac361627f66ecc8/google-http-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d441fc58329c4a4c067acec04ac361627f66ecc8">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/google-http-client-1.22.0_22f6d261689695877c2f095b0b576621e2cc8520.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/jsr305-1.3.9_ced00ade2e0db089c8c7a231991dea091519ac40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/.gradle/caches/modules-2/files-2.1/com.opencsv/opencsv/3.9/1e0df53c5ef2431f072d1da3fd31bea9da5b529/opencsv-3.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="01e0df53c5ef2431f072d1da3fd31bea9da5b529">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/opencsv-3.9_028700006dd2f755dcf4cfb23f40179ca37ceacb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/.gradle/caches/modules-2/files-2.1/commons-beanutils/commons-beanutils/1.9.3/c845703de334ddc6b4b3cd26835458cb1cba1f3d/commons-beanutils-1.9.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c845703de334ddc6b4b3cd26835458cb1cba1f3d">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/commons-beanutils-1.9.3_3f67b0bb3b1cca7043f6e05668a7a5e853954da8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.2.2/8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5/commons-collections-3.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/commons-collections-3.2.2_186bd89dc910e52be97b48857baef0867c471732.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.5/6c6c702c89bfff3cd9e80b04d668c5e190d588c6/commons-lang3-3.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6c6c702c89bfff3cd9e80b04d668c5e190d588c6">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/commons-lang3-3.5_d708e650369ca5ef54e9e037be136f9e11aa9333.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_13b12382e30ecae75f4b8114ddf2eda40a5c82bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/leo/Downloads/Scout_app-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_5689d37a75737b73eb8d87a0c5fa0c798aefe03a.jar" />
+    </item>
+
+</items>
